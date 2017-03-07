@@ -10,8 +10,7 @@ public class Uzduotis9 {
         System.out.println("iveskite 5 skaicius");
         Scanner s = new Scanner(System.in);
         int[] mas = new int[5];
-        // int sk = 0;
-        // int i = 0;
+
 
         int suma = 0;
         for (int i = 0; i < mas.length; i++) {

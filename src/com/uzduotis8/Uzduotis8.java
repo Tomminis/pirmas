@@ -25,7 +25,7 @@ public class Uzduotis8 {
 
         }
         catch (InputMismatchException e){
-            System.out.print("netinkamas skaicius");
+            System.out.print("Netinkamas skaicius");
         }
         }
         System.out.print("programos pabaiga" + suma);
