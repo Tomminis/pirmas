@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class Uzduotis6 {
     public Uzduotis6(){
-        System.out.print("iveskite zodi, kai ivesite zodi pabaiga programa baigsis");
+        System.out.print("Iveskite zodi, kai ivesite zodi pabaiga programa baigsis");
         Scanner s = new Scanner(System.in);
         String zodis = s.nextLine();
 
