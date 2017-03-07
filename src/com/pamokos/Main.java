@@ -11,6 +11,8 @@ import com.uzduotis7.Uzduotis7;
 import com.uzduotis8.Uzduotis8;
 import com.uzduotis9.Uzduotis9;
 import com.uzduotis10.Uzduotis10;
+import com.uzduotis11.Uzduotis11;
+import com.uzduotis12.Uzduotis12;
 
 import java.util.Scanner;
 
@@ -52,8 +54,10 @@ public class Main {
         }
         else if (sk == 10) {
             Uzduotis10 uzduotis10 = new Uzduotis10();
-
-
+            uzduotis10.nuskaitymas();
+        }
+        else if (sk == 11) {
+            Uzduotis11 uzduotis11 = new Uzduotis11();
 
 
         }
