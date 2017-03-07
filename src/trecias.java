@@ -12,6 +12,7 @@ public class trecias {
         int suma = skaicius + skaicius1;
         System.out.print(suma);
         System.out.print("iveskite du skaicius");
+
         Scanner sk1 = new Scanner(System.in);
         int skaicius2 = sk1.nextInt();
         int skaicius3= sk1.nextInt();

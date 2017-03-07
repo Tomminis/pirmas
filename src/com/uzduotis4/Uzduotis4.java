@@ -1,10 +1,13 @@
+package com.uzduotis4;
+
 import java.util.Scanner;
 
 /**
- * Created by Ruta on 2017-03-03.
+ * Created by Ruta on 2017-03-06.
  */
-public class ketvirta {
-    public static void main(String[] args) {
+public class Uzduotis4 {
+    public Uzduotis4(){
+
         System.out.print("iveskite du skaicius");
         Scanner sk = new Scanner(System.in);
         int sk1 = sk.nextInt();
@@ -28,9 +31,4 @@ public class ketvirta {
         int skirtumas = sk1 - sk2;
         return  skirtumas;
     }
-
-
 }
-
-
-
