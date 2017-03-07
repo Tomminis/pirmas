@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class Uzduotis5 {
     public Uzduotis5(){
-        System.out.print("iveskite skaiciu");
+        System.out.print("Iveskite skaiciu");
         Scanner s = new Scanner(System.in);
         int sk = s.nextInt();
         if (sk % 2 ==0) {
