@@ -47,6 +47,8 @@ public class Main {
         }
         else if (sk == 9) {
             Uzduotis9 uzduotis9 = new Uzduotis9();
+            uzduotis9.nuskaitymas(5);
+            uzduotis9.skaiciavimas();
         }
         else if (sk == 10) {
             Uzduotis10 uzduotis10 = new Uzduotis10();
