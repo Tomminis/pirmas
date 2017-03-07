@@ -7,7 +7,7 @@ import java.util.Scanner;
  */
 public class Uzduotis7 {
     public Uzduotis7() {
-        System.out.print("iveskite skaiciu ");
+        System.out.print("Iveskite skaiciu ");
         Scanner s = new Scanner(System.in);
         int sk = s.nextInt();
         int suma = 0;
