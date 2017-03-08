@@ -22,7 +22,6 @@ public class Uzduotis10 {
         }
         String suma ="";
         for (int i = 0; i < mas.length; i++) {
-            //System.out.println("ivestas skaicius " + mas[i]);
             suma +=" "+ mas[i];
 
         }

@@ -13,6 +13,8 @@ import com.uzduotis9.Uzduotis9;
 import com.uzduotis10.Uzduotis10;
 import com.uzduotis11.Uzduotis11;
 import com.uzduotis12.Uzduotis12;
+import com.uzduotis13.Uzduotis13;
+//import com.uzduotis14.Uzduotis14;
 
 import java.util.Scanner;
 
@@ -58,6 +60,17 @@ public class Main {
         }
         else if (sk == 11) {
             Uzduotis11 uzduotis11 = new Uzduotis11();
+            uzduotis11.nuskaityti();
+            uzduotis11.palyginti();
+        }
+        else if (sk == 12) {
+            Uzduotis12 uzduotis12 = new Uzduotis12();
+        }
+        else if (sk == 13) {
+            Uzduotis13 uzduotis13 = new Uzduotis13();
+            uzduotis13.nuskaityti();
+            uzduotis13.palyginti();
+
 
 
         }
